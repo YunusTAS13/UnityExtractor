@@ -84,7 +84,7 @@ Bazı oyunlar asset'leri şifreler:
 Unity 4 ve öncesi için tam destek yoktur.
 
 ### 4. Obfuscated Kodlar
-Bazı oyunlar MonoScript'leri混淆 eder. Bu durumda kodlar okunamaz.
+Bazı oyunlar MonoScript'leri karışık hale getirir. Bu durumda kodlar okunamaz.
 
 ### 5. Özel Formatlar
 Bazı oyunlar kendi formatlarını kullanır:

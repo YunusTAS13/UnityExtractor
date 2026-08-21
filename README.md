@@ -141,7 +141,7 @@ Bu proje **GNU General Public License v3.0** altında lisanslanmıştır.
 
 1. Fork yapın
 2. Branch oluşturun (`git checkout -b feature/ozellik`)
-3. Değişikliklerinizi提交 edin (`git commit -m 'Özellik ekle'`)
+3. Değişikliklerinizi commit edin (`git commit -m 'Özellik ekle'`)
 4. Push yapın (`git push origin feature/ozellik`)
 5. Pull Request oluşturun
 
